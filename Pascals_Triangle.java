@@ -17,7 +17,7 @@ public class Pascals_Triangle {
         
     }}
     
-    /*
+/* 
     ----------------------------------------------------------------------
      Explanation
       List Index       row
@@ -61,8 +61,5 @@ public class Pascals_Triangle {
     
     
     
-    
-    
-    
-     */
+  */  
 
