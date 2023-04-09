@@ -30,3 +30,16 @@ public class 3Sum {
         return res;
     }
 }
+/*
+  ---------------3Sum-----------------------------
+
+  Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == 0.
+
+Notice that the solution set must not contain duplicate triplets.
+  
+  --------------------------------------
+  Approach: -
+  consider that we want a+b+c=0
+  by simple process of sendind a to RHS we can obtain the result for above problem 
+  thet is => [b+c=-(a)]   // * a is nothing but sum(variable) in above problem
+  -----------------------------------------
